@@ -1,0 +1,95 @@
+[
+  {
+    "context": "kaisa laga movie dekh kar",
+    "sentiment": "pos",
+    "generated": "bilkul good morning you so much sir apne dukh ka hissa banana",
+    "lang_tags": [
+      "L2",
+      "L2",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L2",
+      "L2",
+      "L2",
+      "L1",
+      "L1",
+      "L1"
+    ],
+    "cmi_achieved": 41.666666666666664,
+    "score": -29.466867516972926
+  },
+  {
+    "context": "aaj office mein kya hua",
+    "sentiment": "neu",
+    "generated": "new tum apne pas rakh 50 rupee de dete kar",
+    "lang_tags": [
+      "L1",
+      "L1",
+      "L2",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L2",
+      "L1",
+      "L1"
+    ],
+    "cmi_achieved": 19.999999999999996,
+    "score": -32.20776886226728
+  },
+  {
+    "context": "traffic ki wajah se late ho gaya",
+    "sentiment": "neg",
+    "generated": "thank you so much ko apne pass ke liye",
+    "lang_tags": [
+      "L2",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L2",
+      "L2"
+    ],
+    "cmi_achieved": 33.333333333333336,
+    "score": -12.836523271481616
+  },
+  {
+    "context": "weekend plans kya hai tumhare",
+    "sentiment": "neu",
+    "generated": "asan ap apne level ka frustration yaha batein suni hai",
+    "lang_tags": [
+      "L2",
+      "L2",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L1",
+      "L2"
+    ],
+    "cmi_achieved": 30.000000000000004,
+    "score": -34.60918917497092
+  },
+  {
+    "context": "exam result kaisa raha",
+    "sentiment": "neg",
+    "generated": "apne dukh ka select double fayda uthana",
+    "lang_tags": [
+      "L2",
+      "L2",
+      "L2",
+      "L1",
+      "L2",
+      "L2",
+      "L2"
+    ],
+    "cmi_achieved": 14.28571428571429,
+    "score": -21.60952290294413
+  }
+]

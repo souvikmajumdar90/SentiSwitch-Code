@@ -1,0 +1,7 @@
+[
+  {"context": "kaisa laga movie dekh kar", "sentiment": "pos"},
+  {"context": "aaj office mein kya hua", "sentiment": "neu"},
+  {"context": "traffic ki wajah se late ho gaya", "sentiment": "neg"},
+  {"context": "weekend plans kya hai tumhare", "sentiment": "neu"},
+  {"context": "exam result kaisa raha", "sentiment": "neg"}
+]
