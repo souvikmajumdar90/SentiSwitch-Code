@@ -1,0 +1,15 @@
+{
+  "emb_dim": 96,
+  "hid": 160,
+  "sent_emb_dim": 16,
+  "context_vocab_size": 934,
+  "response_vocab_size": 893,
+  "n_lang": 3,
+  "n_sent": 4,
+  "pad_id_x": 0,
+  "pad_id_y": 0,
+  "pad_id_z": 0,
+  "architecture": "custom GRU encoder-decoder with attention (NOT mT5 -- see README for why this repo layout names the checkpoint mt5_sentiswitch.pt but the actual model is a lightweight GRU seq2seq)",
+  "trained_on": "L3Cube-HingLID (real gold LID tags, heuristic sentiment, synthetic consecutive-sentence context/response pairing)",
+  "n_train_examples": 144
+}
